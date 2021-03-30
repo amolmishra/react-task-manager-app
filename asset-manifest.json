@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-task-manager-app/static/css/main.8bf3e02c.chunk.css",
-    "main.js": "/react-task-manager-app/static/js/main.4d23a6cc.chunk.js",
-    "main.js.map": "/react-task-manager-app/static/js/main.4d23a6cc.chunk.js.map",
+    "main.js": "/react-task-manager-app/static/js/main.1021f071.chunk.js",
+    "main.js.map": "/react-task-manager-app/static/js/main.1021f071.chunk.js.map",
     "runtime-main.js": "/react-task-manager-app/static/js/runtime-main.a58db5bd.js",
     "runtime-main.js.map": "/react-task-manager-app/static/js/runtime-main.a58db5bd.js.map",
     "static/js/2.f52d20b9.chunk.js": "/react-task-manager-app/static/js/2.f52d20b9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a58db5bd.js",
     "static/js/2.f52d20b9.chunk.js",
     "static/css/main.8bf3e02c.chunk.css",
-    "static/js/main.4d23a6cc.chunk.js"
+    "static/js/main.1021f071.chunk.js"
   ]
 }
