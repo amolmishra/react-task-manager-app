@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-task-manager-app/static/css/main.8bf3e02c.chunk.css",
+    "main.js": "/react-task-manager-app/static/js/main.4d23a6cc.chunk.js",
+    "main.js.map": "/react-task-manager-app/static/js/main.4d23a6cc.chunk.js.map",
+    "runtime-main.js": "/react-task-manager-app/static/js/runtime-main.a58db5bd.js",
+    "runtime-main.js.map": "/react-task-manager-app/static/js/runtime-main.a58db5bd.js.map",
+    "static/js/2.f52d20b9.chunk.js": "/react-task-manager-app/static/js/2.f52d20b9.chunk.js",
+    "static/js/2.f52d20b9.chunk.js.map": "/react-task-manager-app/static/js/2.f52d20b9.chunk.js.map",
+    "static/js/3.99c96719.chunk.js": "/react-task-manager-app/static/js/3.99c96719.chunk.js",
+    "static/js/3.99c96719.chunk.js.map": "/react-task-manager-app/static/js/3.99c96719.chunk.js.map",
+    "index.html": "/react-task-manager-app/index.html",
+    "static/css/main.8bf3e02c.chunk.css.map": "/react-task-manager-app/static/css/main.8bf3e02c.chunk.css.map",
+    "static/js/2.f52d20b9.chunk.js.LICENSE.txt": "/react-task-manager-app/static/js/2.f52d20b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a58db5bd.js",
+    "static/js/2.f52d20b9.chunk.js",
+    "static/css/main.8bf3e02c.chunk.css",
+    "static/js/main.4d23a6cc.chunk.js"
+  ]
+}
