@@ -29,7 +29,7 @@ function App() {
 
   // Fetch Task
   const fetchTask = async (id) => {
-    const res = await fetch(`https://react-task-manager-db.herokuapp.com/tasks${id}`)
+    const res = await fetch(`https://react-task-manager-db.herokuapp.com/tasks/${id}`)
     const data = await res.json()
 
     return data
@@ -43,7 +43,7 @@ function App() {
       reminder: !taskToToggle.reminder
     }
 
-    const res = await fetch(`https://react-task-manager-db.herokuapp.com/tasks${id}`, {
+    const res = await fetch(`https://react-task-manager-db.herokuapp.com/tasks/${id}`, {
       method: 'PUT',
       headers: {
         'Content-type': 'application/json'
@@ -93,7 +93,7 @@ function App() {
         <Header onAdd={() => setShowAddTask(!showAddTask)}
           showAdd={showAddTask}
         />
-        <Route path='/' exact render={(props) => (
+        <Route path='/react-task-manager-app' exact render={(props) => (
           <>
             {showAddTask && <AddTask onAdd={addTask} />}
             {tasks.length > 0 ? (
@@ -105,7 +105,7 @@ function App() {
             )}
           </>
         )} />
-        <Route path='/about' component={About} />
+        <Route path='/react-task-manager-app/about' component={About} />
         <Footer />
       </div>
     </Router>
